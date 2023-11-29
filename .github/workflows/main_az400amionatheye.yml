@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'az400amionatheye'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9A4A4959602D4513B6031E63462E78F6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_13825799B8D34572BA6D1576A9C48564 }}
