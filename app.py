@@ -30,4 +30,4 @@ def hello():
 
 if __name__ == '__main__':
    app.run()
-git clone https://github.com/Azure-Samples/msdocs-python-flask-webapp-quickstart
+
